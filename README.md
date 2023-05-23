@@ -1,4 +1,4 @@
 # create login-register api:
 
-API implemention integrate with postman, CURD operations.
+API implementation integrate with postman, CRUD operations.
 
